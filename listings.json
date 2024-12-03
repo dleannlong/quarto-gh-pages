@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/2024-07-30-aaic-sprint-ndi/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/biomedior/index.html",
+      "/projects/2024-07-15-MZIP_RE/index.html",
+      "/projects/MZIP/index.html"
+    ]
+  }
+]
